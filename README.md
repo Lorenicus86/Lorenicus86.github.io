@@ -1,5 +1,6 @@
 SUMMARY
-#Electronic & QA Tester with knowledge in manual and automated testing, API testing, and mobile app testing. Skilled in 
+
+Electronic & QA Tester with knowledge in manual and automated testing, API testing, and mobile app testing. Skilled in 
 developing and executing test plans, identifying bugs, and tracking issues. Adept at using tools such as Postman, Jira, 
 Selenium, and Android Studio. Strong background in electronics engineering, customer service, and technical support, with 
 14+ years of international experience in medical devices industries. Seeking a dynamic QA Engineer role to contribute to a 
