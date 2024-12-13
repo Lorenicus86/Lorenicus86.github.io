@@ -13,17 +13,17 @@ Electronic & QA Tester with over 14 years of international experience in medical
 ## 🛠️ Skills & Technologies
 
 **Testing Skills:**
-- Manual Testing | Automated Testing | API Testing | UI Testing | Regression Testing | Mobile Testing  
+- Manual Testing, Automated Testing, API Testing, UI Testing, Regression Testing, Mobile Testing  
 - Tools: Selenium, Postman, JIRA, Android Studio  
-- SQL | JSON | Git | GitHub | DevTools  
+- SQL, JSON, Git, GitHub, DevTools  
 
 **Software Development:**
 - Programming: Python  
 - Databases: SQL  
 
 **Personal Competencies:**
-- Problem Solving | Sales | Teamwork | Effective Communication | Leadership  
-- Empathy | Results-Driven | Team Coaching | Collaboration | Innovation  
+- Problem Solving, Sales, Teamwork, Effective Communication, Leadership  
+- Empathy, Results-Driven, Team Coaching, Collaboration, Innovation  
 
 **Languages:**
 - Spanish (Native)  
