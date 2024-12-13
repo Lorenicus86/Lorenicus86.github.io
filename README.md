@@ -90,4 +90,4 @@ Electronic & QA Tester with over 14 years of international experience in medical
 
 ## 📫 Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lorena-ipanaque/) or [Email](mailto:lorena@example.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lorena-ipanaque/) or [Email](mailto:lorena.ipanaque@gmail.com).
