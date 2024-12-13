@@ -7,25 +7,35 @@ Selenium, and Android Studio. Strong background in electronics engineering, cust
 fast-paced startup environment while continuing to grow my testing and software development skills. 
 
 SKILLS AND TECHNOLOGIES 
+
 Testing Skills: 
 ● Manual Testing | Automated Testing | API Testing | UI Testing | Regression Testing | Mobile Testing 
 ● Tools: Selenium, Postman, JIRA, Android Studio 
 ● SQL | JSON | Git | GitHub | DevTools 
+
 Software Development: 
 ● Programming: Python 
 ● Databases: SQL 
+
 Personal Competencies: 
 ● Problem Solving | Sales | Teamwork | Effective Communication | Customer Orientation | Leadership | Empathy | 
 Results-Driven Management | Team Coaching and Development | Collaboration and Influence | Disruptive and 
 Innovative | Strategy 
+
 Languages: 
 ● Spanish: Native 
 ● English: Intermediate (B2) 
-UBYCALL            
+
+UBYCALL
+
 PROFESSIONAL EXPERIENCE 
+
 Customer service platform connecting clients with support via phone and digital channels. 
+
 Lima, Peru 
+
 August 2024 - Present 
+
 Customer Service Representative – Freelance & Remote position 
 ● Managed customer inquiries and issue resolution via phone and digital channels, consistently achieving a CSAT 
 above 61% by maintaining high service standards and focusing on customer satisfaction. 
@@ -34,6 +44,7 @@ teams to implement solutions and improve overall service quality.
 ● Worked closely with support teams to ensure smooth implementation of solutions, contributing to the 
 enhancement of systems and overall customer experience. 
 ALCON                                                                                                                                         
+
 Global leader in eye care with a presence in over 140 countries and $9B in sales. 
 Sales Manager Peru (2022-2024)  
 Lima, Peru – Quito, Ecuador 
