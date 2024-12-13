@@ -1,6 +1,8 @@
 # Lorena Ipanaque - Electronic & QA Tester
 
-[LinkedIn](https://www.linkedin.com/in/lorenacamilaipanaquebotton/) | [GitHub](https://github.com/Lorenicus86) | Email: lorena.ipanaque@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lorenacamilaipanaquebotton/)
+[GitHub](https://github.com/Lorenicus86) 
+Email: lorena.ipanaque@gmail.com
 
 ---
 
