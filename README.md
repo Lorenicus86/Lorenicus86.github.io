@@ -1,6 +1,6 @@
 # Acerca de mí
 
-Soy **Ingeniera Electrónica** con más de 14 años de experiencia en el sector de dispositivos médicos y calidad de software, con especialización en pruebas manuales y automatizadas. He trabajado en múltiples proyectos donde he optimizado procesos y mejorado la calidad de productos tecnológicos mediante la implementación de buenas prácticas de testing.
+Soy **Ingeniera Electrónica** y acabo de terminar mis estudios en Tripleten de **QA Engineer** con más de 14 años de experiencia en el sector de dispositivos médicos, realicé pruebas manuales y automatizadas. He trabajado en múltiples proyectos donde he optimizado procesos y mejorado la calidad de productos tecnológicos mediante la implementación de buenas prácticas de testing.
 
 Generar soluciones de alta calidad y garantizar la funcionalidad y seguridad del software es mi principal motivación. Mi enfoque está en crear entornos de pruebas robustos, automatizados y eficientes que contribuyan a la mejora continua y a la toma de decisiones estratégicas en equipos ágiles.
 
