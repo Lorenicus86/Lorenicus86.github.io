@@ -1,85 +1,139 @@
 # Acerca de mí
 
-Soy Ingeniera Electrónica con más de 14 años de experiencia internacional, especializada en pruebas de software, análisis de calidad y mejora continua de procesos. Mi enfoque profesional combina una sólida base técnica en ingeniería electrónica con habilidades avanzadas en pruebas manuales y automatizadas, asegurando la calidad y fiabilidad de las aplicaciones.
+Soy **Ingeniera Electrónica** con más de 14 años de experiencia en el sector de dispositivos médicos y calidad de software, con especialización en pruebas manuales y automatizadas. He trabajado en múltiples proyectos donde he optimizado procesos y mejorado la calidad de productos tecnológicos mediante la implementación de buenas prácticas de testing.
 
-A lo largo de mi carrera, he trabajado en proyectos de automatización de pruebas, pruebas de APIs, pruebas de aplicaciones móviles y en el desarrollo de procesos de calidad. Utilizo herramientas como Selenium, Postman, Jira y Android Studio, y tengo una fuerte orientación a la mejora de la experiencia de usuario, la eficiencia y la fiabilidad del software.
+Generar soluciones de alta calidad y garantizar la funcionalidad y seguridad del software es mi principal motivación. Mi enfoque está en crear entornos de pruebas robustos, automatizados y eficientes que contribuyan a la mejora continua y a la toma de decisiones estratégicas en equipos ágiles.
 
-Mi objetivo es seguir perfeccionando mis habilidades, aportar valor a equipos de desarrollo de software y contribuir a la entrega de productos de alta calidad.
+## Habilidades tecnológicas
 
-## Habilidades Tecnológicas
+- **Pruebas de Software**:
+  - Testing Manual  
+  - Automatización de pruebas con Selenium  
+  - Pruebas de APIs  
+  - Pruebas en aplicaciones móviles  
+- **Lenguajes y Herramientas**:  
+  - Python  
+  - Selenium WebDriver  
+  - Postman  
+  - Jira, GitHub  
+- **Bases de Datos**:  
+  - SQL  
+- **Metodologías Ágiles**:  
+  - Scrum, Kanban  
+- **Otros**:  
+  - Git, GitHub, DevTools  
+  - Pruebas de rendimiento
 
-- **Pruebas de Software**: Pruebas manuales, automatización, pruebas de APIs, pruebas móviles, pruebas de regresión  
-- **Lenguajes de Programación**: Python, JavaScript  
-- **Herramientas**: Selenium, Postman, Jira, Git, GitHub, Android Studio  
-- **Metodologías de Desarrollo**: Agile, Scrum, TDD  
-- **Bases de Datos**: SQL, MySQL  
-- **Automatización de pruebas**: Selenium, Appium  
-- **Control de versiones**: Git, GitHub
-
-## Habilidades Blandas
+## Habilidades blandas
 
 - Resolución de problemas  
-- Comunicación efectiva  
 - Trabajo en equipo  
+- Comunicación efectiva  
 - Orientación a resultados  
-- Pensamiento analítico  
-- Empatía  
-- Adaptabilidad  
-- Enfoque en la innovación
-
-## Proyectos Seleccionados
-
-### 1. **Automatización de pruebas para aplicación móvil (UrbanRoutes)**
-**Descripción**: Automatización de pruebas de extremo a extremo para una aplicación de transporte utilizando Selenium y Python. El proyecto simula escenarios de usuario, como la reserva de un taxi, la gestión de cuentas y la validación de pagos.  
-**Tecnologías usadas**: Selenium, Python, XPath, GitHub  
-**Metodología**:  
-- Desarrollo de scripts automatizados para garantizar la funcionalidad de la UI  
-- Identificación de errores y problemas en los flujos de la interfaz  
-**Conclusiones y Recomendaciones**:  
-- Mejorar la cobertura de pruebas asegurando que todas las interacciones críticas del usuario sean probadas en diferentes dispositivos y plataformas móviles.
-
-### 2. **Pruebas de API para un sistema de gestión de clientes (Kit Creation)**
-**Descripción**: Diseño y ejecución de pruebas automáticas de API para un sistema de gestión de clientes, cubriendo validaciones para respuestas exitosas y errores.  
-**Tecnologías usadas**: Python, Postman, Jira  
-**Metodología**:  
-- Pruebas exhaustivas de validación de respuestas de API ante diferentes tipos de entrada  
-- Detección de fallos y problemas de seguridad en las respuestas del servidor  
-**Conclusiones y Recomendaciones**:  
-- Sugerir mejoras en la validación de datos y manejo de errores para prevenir vulnerabilidades y fallos en el sistema de gestión de clientes.
-
-### 3. **Pruebas de regresión y UI para aplicación de gestión de inventarios**
-**Descripción**: Implementación de un conjunto de pruebas de regresión y pruebas de interfaz de usuario para una aplicación de gestión de inventarios, asegurando que las actualizaciones no afecten funcionalidades clave.  
-**Tecnologías usadas**: Selenium, Git, Jira  
-**Metodología**:  
-- Ejecución de pruebas de regresión de las funcionalidades críticas de la aplicación  
-- Validación de la interfaz de usuario para asegurar la usabilidad en distintas resoluciones  
-**Conclusiones y Recomendaciones**:  
-- Optimizar las pruebas de UI para cubrir más casos de uso, especialmente en dispositivos móviles.
-
-## Experiencia Profesional
-
-### **QA Tester / Ingeniera Electrónica (Freelance)**
-**Lima, Perú / Quito, Ecuador**  
-**Junio 2023 - Actualidad**  
-- Realización de pruebas manuales y automatizadas de aplicaciones web y móviles.  
-- Colaboración con equipos de desarrollo para implementar mejoras de calidad en las aplicaciones, enfocándome en la eficiencia y estabilidad del código.  
-- Identificación y documentación de errores utilizando Jira, ofreciendo soluciones técnicas y seguimiento hasta su resolución.  
-
-### **Sales Manager**
-**Alcon - Lima, Perú / Quito, Ecuador**  
-**Marzo 2012 – Marzo 2024**  
-- Gestión y análisis de ventas para productos de tecnología médica, liderando equipos para mejorar la atención al cliente.  
-- Implementación de planes de mejora continua y pruebas de calidad en equipos de tecnología médica.  
-- Coordinación con equipos técnicos para garantizar el funcionamiento de los equipos y su cumplimiento con los estándares de calidad.  
-
-## Educación
-
-- **Certificación en QA Engineer** – **TRIPLETEN** (2024)  
-- **MBA** – **Pontificia Universidad Católica del Perú (PUCP)** (2021)  
-- **Licenciatura en Ingeniería Electrónica** – **Universidad Privada Antenor Orrego** (2009)  
-
+- Análisis y optimización de procesos  
+- Atención al detalle  
+- Pensamiento crítico
 
 ---
 
-## Licencia
-Este repositorio está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+## Proyectos seleccionados
+
+### 1. **Automatización de Pruebas para UrbanRoutesPage**
+**Descripción**: Este proyecto tiene como objetivo automatizar pruebas para la web "UrbanRoutes", un sistema de reservas de taxis. El proceso abarca desde la simulación de interacciones de usuario hasta la validación de los detalles de pago, mejorando así la cobertura de pruebas y la eficiencia.
+
+**Herramientas y tipo de proyecto**  
+- Selenium WebDriver  
+- Python  
+- GitHub  
+- Acción de usuario (clicks, desplazamiento, etc.)  
+
+**Preguntas clave**  
+- ¿El sistema responde correctamente a las interacciones del usuario?  
+- ¿Las validaciones de pago funcionan correctamente?  
+- ¿Las pruebas automatizadas cubren todos los flujos críticos?
+
+**Metodología**  
+- Creación de scripts de pruebas automatizadas  
+- Revisión de la cobertura de pruebas  
+- Ejecución de pruebas en diferentes navegadores
+
+**Conclusiones y recomendaciones**  
+- Se logró reducir el tiempo de ejecución de las pruebas en un 30%  
+- Se identificaron puntos de mejora en el flujo de pago que se optimizaron mediante nuevas pruebas
+
+[Ver proyecto en GitHub](https://github.com/lorenaup/UrbanRoutesPageAutomation)
+
+---
+
+### 2. **Pruebas de API para Proyecto de Creación de Clientes**
+**Descripción**: Este proyecto se centra en las pruebas automatizadas de una API encargada de crear clientes en un sistema de gestión. El enfoque fue validar tanto las entradas válidas como las inválidas y asegurar que el sistema responda adecuadamente en todos los casos.
+
+**Herramientas y tipo de proyecto**  
+- Python  
+- Postman  
+- Requests
+
+**Preguntas clave**  
+- ¿La API maneja correctamente los datos de entrada válidos e inválidos?  
+- ¿Las respuestas cumplen con los requisitos de tiempo de respuesta y formato?  
+- ¿Existen posibles vulnerabilidades en el manejo de datos?
+
+**Metodología**  
+- Creación de pruebas unitarias con Python  
+- Validación de respuestas usando aserciones  
+- Análisis de resultados y optimización de la API
+
+**Conclusiones y recomendaciones**  
+- Mejoras en la velocidad de respuesta en un 20%  
+- Validaciones de error añadidas para manejar entradas inesperadas
+
+[Ver proyecto en GitHub](https://github.com/lorenaup/API_Testing_KitCreation)
+
+---
+
+## Experiencia Profesional
+
+### **UbyCall** (Lima, Perú)  
+**Customer Service Representative** (Agosto 2024 - Actualidad)  
+- Resolución de problemas técnicos relacionados con el sistema de reservas.  
+- Colaboración con el equipo técnico para garantizar la estabilidad del sistema.
+
+### **Alcon** (Lima, Perú / Quito, Ecuador)  
+**Sales Manager** (Marzo 2012 - Marzo 2024)  
+- Implementación de estrategias de ventas y análisis de desempeño.  
+- Coordinación con equipos técnicos para asegurar la calidad del producto.
+
+### **Alcon** (Lima, Perú / Quito, Ecuador)  
+**Field Service Engineer** (2012 - 2017)  
+- Diagnóstico y mantenimiento de equipos médicos.  
+- Implementación de procedimientos de calidad en las pruebas de equipos.
+
+---
+
+## Educación
+
+- **TripletEn** - 2024 (En curso)  
+  Certificación en QA Engineer  
+- **Pontificia Universidad Católica del Perú (PUCP)** - 2021  
+  MBA (Master of Business Administration)  
+- **Universidad Nacional Mayor de San Marcos** - 2012  
+  Certificado en Ingeniería Electrónica Aplicada a Equipos Médicos  
+- **Universidad Privada Antenor Orrego** - 2009  
+  Grado en Ingeniería Electrónica (Top 10% de la clase)
+
+---
+
+## Idiomas
+
+- **Español**: Nativo  
+- **Inglés**: Intermedio (B2)
+
+---
+
+## Objetivo Profesional
+
+Mi objetivo es continuar desarrollándome como **QA Engineer**, mejorando la calidad y eficiencia de los sistemas a través de la automatización de pruebas y un enfoque meticuloso en los detalles. Busco aplicar mis habilidades y experiencia para mejorar la confiabilidad del software y optimizar los procesos de pruebas dentro de equipos ágiles.
+
+---
+
+**¡Gracias por visitar mi perfil! Si deseas conocer más sobre mis proyectos o colaborar en nuevas iniciativas, no dudes en contactarme.**
