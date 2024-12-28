@@ -1,97 +1,102 @@
-# Lorena Ipanaque - Electronic & QA Tester
+# Lorena Ipanaque - Electronic & QA Engineer
 
-[LinkedIn](https://www.linkedin.com/in/lorenacamilaipanaquebotton/)
+## Acerca de mí
 
-[GitHub](https://github.com/Lorenicus86) 
+Soy **Ingeniera Electrónica y QA**, con más de 14 años de experiencia internacional en **pruebas manuales y automatizadas**, **pruebas de API**, **pruebas de aplicaciones móviles** y **aseguramiento de calidad**. Mi experiencia también abarca la **atención al cliente** y el **soporte técnico** en la industria de dispositivos médicos. Me apasiona mejorar la calidad de los productos a través de pruebas, y trabajar en ambientes dinámicos y de rápido cambio.
 
-Email: lorena.ipanaque@gmail.com
+**Habilidades tecnológicas**:
+- **Pruebas**: Pruebas manuales, automatizadas, pruebas de API, pruebas UI, pruebas de regresión, pruebas móviles.
+- **Herramientas**: Selenium, Postman, JIRA, Android Studio.
+- **Programación**: Python.
+- **Tecnologías**: SQL, JSON, Git, GitHub, DevTools.
 
----
+**Habilidades blandas**:
+- Resolución de problemas | Trabajo en equipo | Comunicación efectiva | Adaptabilidad | Pensamiento crítico | Orientación a resultados | Proactividad | Atención al detalle | Optimización de procesos.
 
-## 📝 Summary
-
-Electronic & QA Tester with over 14 years of international experience in medical device industries. Skilled in manual and automated testing, API testing, and mobile app testing. Adept at developing and executing test plans, identifying bugs, and tracking issues using tools such as Postman, Jira, Selenium, and Android Studio. Looking for a dynamic QA Engineer role to contribute to a fast-paced startup environment while continuing to grow my skills in testing and software development.
-
----
-
-## 🛠️ Skills & Technologies
-
-**Testing Skills:**
-- Manual Testing, Automated Testing, API Testing, UI Testing, Regression Testing, Mobile Testing  
-- Tools: Selenium, Postman, JIRA, Android Studio  
-- SQL, JSON, Git, GitHub, DevTools  
-
-**Software Development:**
-- Programming: Python  
-- Databases: SQL  
-
-**Personal Competencies:**
-- Problem Solving, Sales, Teamwork, Effective Communication, Leadership  
-- Empathy, Results-Driven, Team Coaching, Collaboration, Innovation  
-
-**Languages:**
-- Spanish (Native)  
-- English (Intermediate B2)
+[LinkedIn](https://linkedin.com/in/lorenaipanaque) | [GitHub](https://github.com/tuusuario)
 
 ---
 
-## 💼 Professional Experience
+## Proyectos seleccionados
 
-### **Customer Service Representative**  
-**UBYCALL** (Remote, Lima, Peru) | *August 2024 - Present*  
-- Managed customer inquiries and issue resolution, achieving a CSAT above 61%.  
-- Collaborated with technical teams to improve overall service quality.  
+### 1. **Automatización de pruebas para UrbanRoutesPage**
+**Descripción**:  
+Este proyecto automatiza las pruebas de extremo a extremo para la aplicación web "UrbanRoutes", simulando interacciones de usuario como la reserva de un taxi, la introducción de detalles telefónicos, la selección de preferencias y la adición de métodos de pago.
 
-### **Sales Manager**  
-**ALCON** (Lima, Peru | Quito, Ecuador) | *March 2012 - March 2024*  
-- Led a team of 10, driving sales growth through customer-centric strategies.  
-- Coordinated with technical teams to ensure high-quality customer service.  
+**Herramientas y tipo de proyecto**:
+- **Python**, **Selenium WebDriver**, **XPath**, **CSS Selectors**, **GitHub**
 
-### **Field Service Manager**  
-**ALCON** (Peru & Ecuador) | *2019 - 2022*  
-- Managed service contracts, ensuring compliance with quality assurance standards.  
-- Led the implementation of testing protocols to validate equipment performance.  
+**Metodología**:
+- Automatización de pruebas de UI para mejorar la cobertura y la eficiencia de las pruebas.
+- Ejecución de pruebas regulares para garantizar que las funcionalidades del sitio web funcionen como se espera.
 
-### **Posterior Segment Specialist**  
-**ALCON** (Ecuador) | *2017 - 2019*  
-- Delivered training on product upgrades and supported troubleshooting during surgeries.  
-
-### **Field Service Engineer**  
-**ALCON** (Peru) | *2012 - 2017*  
-- Diagnosed and repaired medical devices, ensuring compliance with regulatory standards.  
+**Explora más detalles del proyecto en el repositorio completo**: [UrbanRoutesPageAutomation](https://github.com/tuusuario/UrbanRoutesPageAutomation)
 
 ---
 
-## 🧑‍💻 Projects
+### 2. **Pruebas de API para la creación de kits**
+**Descripción**:  
+En este proyecto, se realizan pruebas automatizadas de una API para el endpoint de creación de un cliente, probando tanto escenarios positivos como negativos con diferentes casos de entrada (longitudes de nombre, caracteres especiales, etc.).
 
-### **UrbanRoutesPage Automation Project**  
-[GitHub Repository](https://github.com/tuusuario/urbanroutespage)  
-- **Description**: Automated end-to-end testing for the "UrbanRoutes" web using Selenium and Python.  
-- **Technologies Used**: Selenium WebDriver, Python, ActionChains, XPath, CSS Selectors.
+**Herramientas y tipo de proyecto**:
+- **Python**, **requests**, **assertions**
 
-### **API Testing for Kit Creation Project**  
-[GitHub Repository](https://github.com/tuusuario/apitestingkitcreation)  
-- **Description**: Automated API testing for a client creation endpoint using Python.  
-- **Technologies Used**: Python, requests, assertions.
+**Metodología**:
+- Pruebas de integración para garantizar que la API maneje correctamente tanto entradas válidas como inválidas.
+- Evaluación de respuestas del servidor (201 para éxito, 400 para errores).
 
----
-
-## 🎓 Education
-
-### **QA Engineer Certification**  
-**TRIPLETEN** (2024) - *In Progress*
-
-### **Master of Business Administration (MBA)**  
-**Pontifical Catholic University of Peru (PUCP)** (2021) - *Completed*
-
-### **Certificate in Electronic Engineering Applied to Medical Equipment**  
-**National University of San Marcos** (2012) - *Completed*
-
-### **Electronic Engineer Degree**  
-**Antener Orrego Private University** (2009) - *Top 10% of the class*
+**Explora más detalles del proyecto en el repositorio completo**: [APITestingKitCreation](https://github.com/tuusuario/APITestingKitCreation)
 
 ---
 
-## 📫 Contact
+## Experiencia profesional
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lorenacamilaipanaquebotton/) or [Email](mailto:lorena.ipanaque@gmail.com).
+### **UBYCALL (Lima, Perú)**  
+**Rol**: Representante de Atención al Cliente (Freelance & Remoto)  
+**Duración**: Agosto 2024 – Actualidad  
+- Gestión de consultas de clientes y resolución de problemas a través de canales telefónicos y digitales.
+- Identificación de oportunidades para mejorar procesos y aumentar la satisfacción del cliente.
+
+### **ALCON (Lima, Perú – Quito, Ecuador)**  
+**Rol**: Gerente de Ventas (Marzo 2012 – Marzo 2024)  
+- Lideré un equipo de 10 personas, impulsando el crecimiento en ventas mediante estrategias centradas en el cliente.
+- Coordinación con equipos técnicos para garantizar un servicio de alta calidad.
+
+### **ROCA SAC (Lima, Perú)**  
+**Rol**: Ingeniero Senior (Enero 2011 – Marzo 2012)  
+- Mantenimiento preventivo y correctivo de equipos médicos.
+- Validación de equipos médicos para cumplir con los estándares de calidad.
+
+### **S.B.S.SERVICE S.C.R.L (Lima, Perú)**  
+**Rol**: Especialista en Equipos Biomédicos (Octubre 2009 – Diciembre 2010)  
+- Mantenimiento y reparación de equipos biomédicos, asegurando su funcionamiento según los estándares de la industria.
+
+---
+
+## Educación
+
+### **TRIPLETEN (2024)**  
+**Certificación**: QA Engineer (En progreso)
+
+### **Pontificia Universidad Católica del Perú (PUCP) (2021)**  
+**Maestría**: MBA (Master of Business Administration)
+
+### **Universidad Nacional Mayor de San Marcos (2012)**  
+**Certificado**: Ingeniería Electrónica Aplicada a Equipos Médicos
+
+### **Universidad Privada Antenor Orrego (2009)**  
+**Título**: Ingeniero Electrónico (Top 10% de la promoción)
+
+---
+
+## Contacto
+
+- **Email**: lorena.ipanaque@gmail.com  
+- **Teléfono**: +51 940091447  
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/lorenaipanaque)  
+- **GitHub**: [GitHub Profile](https://github.com/tuusuario)
+
+---
+
+## Licencia
+Este repositorio está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
