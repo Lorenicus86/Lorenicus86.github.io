@@ -60,4 +60,59 @@ Generating high-quality solutions and ensuring the functionality and security of
 
 ### 2. API Testing for Client Creation Project
 
-**Description:** This project focuses on automated testing for an API responsible for creating clients
+**Description:** This project focuses on automated testing for an API responsible for creating clients in a management system. The approach was to validate both valid and invalid inputs and ensure the system responds correctly in all cases.
+
+**Tools and Project Type:**  
+- Python  
+- Postman  
+- Requests  
+
+**Methodology:**  
+- Creation of unit tests with Python  
+- Validation of responses using assertions  
+- Results analysis and API optimization  
+
+**Conclusions and Recommendations:**  
+- Improved response time by 20%  
+- Added error validations to handle unexpected inputs  
+
+## Professional Experience
+
+### UbyCall (Lima, Peru)
+**Customer Service Representative** (August 2024 - Present)
+- Resolving technical issues related to the booking system.  
+- Collaborating with the technical team to ensure system stability.  
+
+### Alcon (Lima, Peru / Quito, Ecuador)
+**Sales Manager** (March 2012 - March 2024)
+- Implementation of sales strategies and performance analysis.  
+- Coordination with technical teams to ensure product quality.  
+
+### Alcon (Lima, Peru / Quito, Ecuador)
+**Field Service Engineer** (2012 - 2017)
+- Diagnosis and maintenance of medical equipment.  
+- Implementation of quality procedures in equipment testing.  
+
+## Education
+
+- **TripletEn** - 2024 (Ongoing)  
+  Certification in QA Engineering  
+- **Pontificia Universidad Católica del Perú (PUCP)** - 2021  
+  MBA (Master of Business Administration)  
+- **Universidad Nacional Mayor de San Marcos** - 2012  
+  Certificate in Electronics Engineering Applied to Medical Equipment  
+- **Universidad Privada Antenor Orrego** - 2009  
+  Bachelor's Degree in Electronics Engineering (Top 10% of the class)
+
+## Languages
+
+- **Spanish**: Native  
+- **English**: Intermediate (B2)
+
+## Professional Objective
+
+My goal is to continue developing as a **QA Engineer**, enhancing the quality and efficiency of systems through test automation and a meticulous focus on details. I seek to apply my skills and experience to improve software reliability and optimize testing processes within agile teams.
+
+---
+
+Thank you for visiting my profile! If you want to learn more about my projects or collaborate on new initiatives, feel free to contact me.
