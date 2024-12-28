@@ -1,125 +1,63 @@
-# Acerca de mí
+# About Me
 
-Soy **Ingeniera Electrónica** y acabo de terminar mis estudios en Tripleten de **QA Engineer** con más de 14 años de experiencia en el sector de dispositivos médicos, realicé pruebas manuales y automatizadas. He trabajado en múltiples proyectos donde he optimizado procesos y mejorado la calidad de productos tecnológicos mediante la implementación de buenas prácticas de testing.
+I am an **Electronics Engineer** and have just completed my studies in **QA Engineering** at Tripleten, with over 14 years of experience in the medical devices sector, where I conducted both manual and automated testing. I have worked on multiple projects where I optimized processes and improved the quality of technological products by implementing best testing practices.
 
-Generar soluciones de alta calidad y garantizar la funcionalidad y seguridad del software es mi principal motivación. Mi enfoque está en crear entornos de pruebas robustos, automatizados y eficientes que contribuyan a la mejora continua y a la toma de decisiones estratégicas en equipos ágiles.
+Generating high-quality solutions and ensuring the functionality and security of software is my primary motivation. My focus is on creating robust, automated, and efficient testing environments that contribute to continuous improvement and strategic decision-making within agile teams.
 
-## Habilidades tecnológicas
+## Technological Skills
 
-- **Pruebas de Software**:
-  - Testing Manual  
-  - Automatización de pruebas con Selenium  
-  - Pruebas de APIs  
-  - Pruebas en aplicaciones móviles  
-- **Lenguajes y Herramientas**:  
-  - Python  
-  - Selenium WebDriver  
-  - Postman  
-  - Jira, GitHub  
-- **Bases de Datos**:  
-  - SQL  
-- **Metodologías Ágiles**:  
-  - Scrum, Kanban  
-- **Otros**:  
-  - Git, GitHub, DevTools  
-  - Pruebas de rendimiento
+### Software Testing:
+- Manual Testing  
+- Test Automation with Selenium  
+- API Testing  
+- Mobile Application Testing  
 
-## Habilidades blandas
+### Languages and Tools:
+- Python  
+- Selenium WebDriver  
+- Postman  
+- Jira, GitHub  
 
-- Resolución de problemas  
-- Trabajo en equipo  
-- Comunicación efectiva  
-- Orientación a resultados  
-- Análisis y optimización de procesos  
-- Atención al detalle  
-- Pensamiento crítico
+### Databases:
+- SQL  
 
----
+### Agile Methodologies:
+- Scrum, Kanban  
 
-## Proyectos seleccionados
+### Others:
+- Git, GitHub, DevTools  
+- Performance Testing  
 
-### 1. **Automatización de Pruebas para UrbanRoutesPage**
-**Descripción**: Este proyecto tiene como objetivo automatizar pruebas para la web "UrbanRoutes", un sistema de reservas de taxis. El proceso abarca desde la simulación de interacciones de usuario hasta la validación de los detalles de pago, mejorando así la cobertura de pruebas y la eficiencia.
+## Soft Skills
+- Problem-solving  
+- Teamwork  
+- Effective communication  
+- Results-oriented  
+- Process analysis and optimization  
+- Attention to detail  
+- Critical thinking  
 
-**Herramientas y tipo de proyecto**  
+## Selected Projects
+
+### 1. Test Automation for UrbanRoutesPage
+
+**Description:** This project aims to automate tests for the "UrbanRoutes" website, a taxi booking system. The process includes simulating user interactions and validating payment details, thus improving test coverage and efficiency.
+
+**Tools and Project Type:**  
 - Selenium WebDriver  
 - Python  
 - GitHub  
-- Acción de usuario (clicks, desplazamiento, etc.)  
+- User actions (clicks, scrolling, etc.)  
 
-**Metodología**  
-- Creación de scripts de pruebas automatizadas  
-- Revisión de la cobertura de pruebas  
-- Ejecución de pruebas en diferentes navegadores
+**Methodology:**  
+- Creation of automated test scripts  
+- Review of test coverage  
+- Execution of tests on different browsers  
 
-**Conclusiones y recomendaciones**  
-- Se logró reducir el tiempo de ejecución de las pruebas en un 30%  
-- Se identificaron puntos de mejora en el flujo de pago que se optimizaron mediante nuevas pruebas
+**Conclusions and Recommendations:**  
+- Achieved a 30% reduction in test execution time  
+- Identified areas of improvement in the payment flow that were optimized through new tests  
 
----
+### 2. API Testing for Client Creation Project
 
-### 2. **Pruebas de API para Proyecto de Creación de Clientes**
-**Descripción**: Este proyecto se centra en las pruebas automatizadas de una API encargada de crear clientes en un sistema de gestión. El enfoque fue validar tanto las entradas válidas como las inválidas y asegurar que el sistema responda adecuadamente en todos los casos.
-
-**Herramientas y tipo de proyecto**  
-- Python  
-- Postman  
-- Requests
-
-**Metodología**  
-- Creación de pruebas unitarias con Python  
-- Validación de respuestas usando aserciones  
-- Análisis de resultados y optimización de la API
-
-**Conclusiones y recomendaciones**  
-- Mejoras en la velocidad de respuesta en un 20%  
-- Validaciones de error añadidas para manejar entradas inesperadas
-
----
-
-## Experiencia Profesional
-
-### **UbyCall** (Lima, Perú)  
-**Customer Service Representative** (Agosto 2024 - Actualidad)  
-- Resolución de problemas técnicos relacionados con el sistema de reservas.  
-- Colaboración con el equipo técnico para garantizar la estabilidad del sistema.
-
-### **Alcon** (Lima, Perú / Quito, Ecuador)  
-**Sales Manager** (Marzo 2012 - Marzo 2024)  
-- Implementación de estrategias de ventas y análisis de desempeño.  
-- Coordinación con equipos técnicos para asegurar la calidad del producto.
-
-### **Alcon** (Lima, Perú / Quito, Ecuador)  
-**Field Service Engineer** (2012 - 2017)  
-- Diagnóstico y mantenimiento de equipos médicos.  
-- Implementación de procedimientos de calidad en las pruebas de equipos.
-
----
-
-## Educación
-
-- **TripletEn** - 2024 (En curso)  
-  Certificación en QA Engineer  
-- **Pontificia Universidad Católica del Perú (PUCP)** - 2021  
-  MBA (Master of Business Administration)  
-- **Universidad Nacional Mayor de San Marcos** - 2012  
-  Certificado en Ingeniería Electrónica Aplicada a Equipos Médicos  
-- **Universidad Privada Antenor Orrego** - 2009  
-  Grado en Ingeniería Electrónica (Top 10% de la clase)
-
----
-
-## Idiomas
-
-- **Español**: Nativo  
-- **Inglés**: Intermedio (B2)
-
----
-
-## Objetivo Profesional
-
-Mi objetivo es continuar desarrollándome como **QA Engineer**, mejorando la calidad y eficiencia de los sistemas a través de la automatización de pruebas y un enfoque meticuloso en los detalles. Busco aplicar mis habilidades y experiencia para mejorar la confiabilidad del software y optimizar los procesos de pruebas dentro de equipos ágiles.
-
----
-
-**¡Gracias por visitar mi perfil! Si deseas conocer más sobre mis proyectos o colaborar en nuevas iniciativas, no dudes en contactarme.**
+**Description:** This project focuses on automated testing for an API responsible for creating clients
