@@ -47,11 +47,6 @@ Generar soluciones de alta calidad y garantizar la funcionalidad y seguridad del
 - GitHub  
 - Acción de usuario (clicks, desplazamiento, etc.)  
 
-**Preguntas clave**  
-- ¿El sistema responde correctamente a las interacciones del usuario?  
-- ¿Las validaciones de pago funcionan correctamente?  
-- ¿Las pruebas automatizadas cubren todos los flujos críticos?
-
 **Metodología**  
 - Creación de scripts de pruebas automatizadas  
 - Revisión de la cobertura de pruebas  
@@ -60,8 +55,6 @@ Generar soluciones de alta calidad y garantizar la funcionalidad y seguridad del
 **Conclusiones y recomendaciones**  
 - Se logró reducir el tiempo de ejecución de las pruebas en un 30%  
 - Se identificaron puntos de mejora en el flujo de pago que se optimizaron mediante nuevas pruebas
-
-[Ver proyecto en GitHub](https://github.com/lorenaup/UrbanRoutesPageAutomation)
 
 ---
 
@@ -73,11 +66,6 @@ Generar soluciones de alta calidad y garantizar la funcionalidad y seguridad del
 - Postman  
 - Requests
 
-**Preguntas clave**  
-- ¿La API maneja correctamente los datos de entrada válidos e inválidos?  
-- ¿Las respuestas cumplen con los requisitos de tiempo de respuesta y formato?  
-- ¿Existen posibles vulnerabilidades en el manejo de datos?
-
 **Metodología**  
 - Creación de pruebas unitarias con Python  
 - Validación de respuestas usando aserciones  
@@ -86,8 +74,6 @@ Generar soluciones de alta calidad y garantizar la funcionalidad y seguridad del
 **Conclusiones y recomendaciones**  
 - Mejoras en la velocidad de respuesta en un 20%  
 - Validaciones de error añadidas para manejar entradas inesperadas
-
-[Ver proyecto en GitHub](https://github.com/lorenaup/API_Testing_KitCreation)
 
 ---
 
