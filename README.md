@@ -1,100 +1,83 @@
-# Lorena Ipanaque - Electronic & QA Engineer
+# Acerca de mí
 
-## Acerca de mí
+Soy Ingeniera Electrónica con más de 14 años de experiencia internacional, especializada en pruebas de software, análisis de calidad y mejora continua de procesos. Mi enfoque profesional combina una sólida base técnica en ingeniería electrónica con habilidades avanzadas en pruebas manuales y automatizadas, asegurando la calidad y fiabilidad de las aplicaciones.
 
-Soy **Ingeniera Electrónica y QA**, con más de 14 años de experiencia internacional en **pruebas manuales y automatizadas**, **pruebas de API**, **pruebas de aplicaciones móviles** y **aseguramiento de calidad**. Mi experiencia también abarca la **atención al cliente** y el **soporte técnico** en la industria de dispositivos médicos. Me apasiona mejorar la calidad de los productos a través de pruebas, y trabajar en ambientes dinámicos y de rápido cambio.
+A lo largo de mi carrera, he trabajado en proyectos de automatización de pruebas, pruebas de APIs, pruebas de aplicaciones móviles y en el desarrollo de procesos de calidad. Utilizo herramientas como Selenium, Postman, Jira y Android Studio, y tengo una fuerte orientación a la mejora de la experiencia de usuario, la eficiencia y la fiabilidad del software.
 
-**Habilidades tecnológicas**:
-- **Pruebas**: Pruebas manuales, automatizadas, pruebas de API, pruebas UI, pruebas de regresión, pruebas móviles.
-- **Herramientas**: Selenium, Postman, JIRA, Android Studio.
-- **Programación**: Python.
-- **Tecnologías**: SQL, JSON, Git, GitHub, DevTools.
+Mi objetivo es seguir perfeccionando mis habilidades, aportar valor a equipos de desarrollo de software y contribuir a la entrega de productos de alta calidad.
 
-**Habilidades blandas**:
-- Resolución de problemas | Trabajo en equipo | Comunicación efectiva | Adaptabilidad | Pensamiento crítico | Orientación a resultados | Proactividad | Atención al detalle | Optimización de procesos.
+## Habilidades Tecnológicas
 
-[LinkedIn](https://linkedin.com/in/lorenaipanaque) | [GitHub](https://github.com/tuusuario)
+- **Pruebas de Software**: Pruebas manuales, automatización, pruebas de APIs, pruebas móviles, pruebas de regresión  
+- **Lenguajes de Programación**: Python, JavaScript  
+- **Herramientas**: Selenium, Postman, Jira, Git, GitHub, Android Studio  
+- **Metodologías de Desarrollo**: Agile, Scrum, TDD  
+- **Bases de Datos**: SQL, MySQL  
+- **Automatización de pruebas**: Selenium, Appium  
+- **Control de versiones**: Git, GitHub
 
----
+## Habilidades Blandas
 
-## Proyectos seleccionados
+- Resolución de problemas  
+- Comunicación efectiva  
+- Trabajo en equipo  
+- Orientación a resultados  
+- Pensamiento analítico  
+- Empatía  
+- Adaptabilidad  
+- Enfoque en la innovación
 
-### 1. **Automatización de pruebas para UrbanRoutesPage**
-**Descripción**:  
-Este proyecto automatiza las pruebas de extremo a extremo para la aplicación web "UrbanRoutes", simulando interacciones de usuario como la reserva de un taxi, la introducción de detalles telefónicos, la selección de preferencias y la adición de métodos de pago.
+## Proyectos Seleccionados
 
-**Herramientas y tipo de proyecto**:
-- **Python**, **Selenium WebDriver**, **XPath**, **CSS Selectors**, **GitHub**
+### 1. **Automatización de pruebas para aplicación móvil (UrbanRoutes)**
+**Descripción**: Automatización de pruebas de extremo a extremo para una aplicación de transporte utilizando Selenium y Python. El proyecto simula escenarios de usuario, como la reserva de un taxi, la gestión de cuentas y la validación de pagos.  
+**Tecnologías usadas**: Selenium, Python, XPath, GitHub  
+**Metodología**:  
+- Desarrollo de scripts automatizados para garantizar la funcionalidad de la UI  
+- Identificación de errores y problemas en los flujos de la interfaz  
+**Conclusiones y Recomendaciones**:  
+- Mejorar la cobertura de pruebas asegurando que todas las interacciones críticas del usuario sean probadas en diferentes dispositivos y plataformas móviles.
 
-**Metodología**:
-- Automatización de pruebas de UI para mejorar la cobertura y la eficiencia de las pruebas.
-- Ejecución de pruebas regulares para garantizar que las funcionalidades del sitio web funcionen como se espera.
+### 2. **Pruebas de API para un sistema de gestión de clientes (Kit Creation)**
+**Descripción**: Diseño y ejecución de pruebas automáticas de API para un sistema de gestión de clientes, cubriendo validaciones para respuestas exitosas y errores.  
+**Tecnologías usadas**: Python, Postman, Jira  
+**Metodología**:  
+- Pruebas exhaustivas de validación de respuestas de API ante diferentes tipos de entrada  
+- Detección de fallos y problemas de seguridad en las respuestas del servidor  
+**Conclusiones y Recomendaciones**:  
+- Sugerir mejoras en la validación de datos y manejo de errores para prevenir vulnerabilidades y fallos en el sistema de gestión de clientes.
 
-**Explora más detalles del proyecto en el repositorio completo**: [UrbanRoutesPageAutomation](https://github.com/tuusuario/UrbanRoutesPageAutomation)
+### 3. **Pruebas de regresión y UI para aplicación de gestión de inventarios**
+**Descripción**: Implementación de un conjunto de pruebas de regresión y pruebas de interfaz de usuario para una aplicación de gestión de inventarios, asegurando que las actualizaciones no afecten funcionalidades clave.  
+**Tecnologías usadas**: Selenium, Git, Jira  
+**Metodología**:  
+- Ejecución de pruebas de regresión de las funcionalidades críticas de la aplicación  
+- Validación de la interfaz de usuario para asegurar la usabilidad en distintas resoluciones  
+**Conclusiones y Recomendaciones**:  
+- Optimizar las pruebas de UI para cubrir más casos de uso, especialmente en dispositivos móviles.
 
----
+## Experiencia Profesional
 
-### 2. **Pruebas de API para la creación de kits**
-**Descripción**:  
-En este proyecto, se realizan pruebas automatizadas de una API para el endpoint de creación de un cliente, probando tanto escenarios positivos como negativos con diferentes casos de entrada (longitudes de nombre, caracteres especiales, etc.).
+### **QA Tester / Ingeniera Electrónica (Freelance)**
+**Lima, Perú / Quito, Ecuador**  
+**Junio 2023 - Actualidad**  
+- Realización de pruebas manuales y automatizadas de aplicaciones web y móviles.  
+- Colaboración con equipos de desarrollo para implementar mejoras de calidad en las aplicaciones, enfocándome en la eficiencia y estabilidad del código.  
+- Identificación y documentación de errores utilizando Jira, ofreciendo soluciones técnicas y seguimiento hasta su resolución.  
 
-**Herramientas y tipo de proyecto**:
-- **Python**, **requests**, **assertions**
-
-**Metodología**:
-- Pruebas de integración para garantizar que la API maneje correctamente tanto entradas válidas como inválidas.
-- Evaluación de respuestas del servidor (201 para éxito, 400 para errores).
-
-**Explora más detalles del proyecto en el repositorio completo**: [APITestingKitCreation](https://github.com/tuusuario/APITestingKitCreation)
-
----
-
-## Experiencia profesional
-
-### **UBYCALL (Lima, Perú)**  
-**Rol**: Representante de Atención al Cliente (Freelance & Remoto)  
-**Duración**: Agosto 2024 – Actualidad  
-- Gestión de consultas de clientes y resolución de problemas a través de canales telefónicos y digitales.
-- Identificación de oportunidades para mejorar procesos y aumentar la satisfacción del cliente.
-
-### **ALCON (Lima, Perú – Quito, Ecuador)**  
-**Rol**: Gerente de Ventas (Marzo 2012 – Marzo 2024)  
-- Lideré un equipo de 10 personas, impulsando el crecimiento en ventas mediante estrategias centradas en el cliente.
-- Coordinación con equipos técnicos para garantizar un servicio de alta calidad.
-
-### **ROCA SAC (Lima, Perú)**  
-**Rol**: Ingeniero Senior (Enero 2011 – Marzo 2012)  
-- Mantenimiento preventivo y correctivo de equipos médicos.
-- Validación de equipos médicos para cumplir con los estándares de calidad.
-
-### **S.B.S.SERVICE S.C.R.L (Lima, Perú)**  
-**Rol**: Especialista en Equipos Biomédicos (Octubre 2009 – Diciembre 2010)  
-- Mantenimiento y reparación de equipos biomédicos, asegurando su funcionamiento según los estándares de la industria.
-
----
+### **Sales Manager**
+**Alcon - Lima, Perú / Quito, Ecuador**  
+**Marzo 2012 – Marzo 2024**  
+- Gestión y análisis de ventas para productos de tecnología médica, liderando equipos para mejorar la atención al cliente.  
+- Implementación de planes de mejora continua y pruebas de calidad en equipos de tecnología médica.  
+- Coordinación con equipos técnicos para garantizar el funcionamiento de los equipos y su cumplimiento con los estándares de calidad.  
 
 ## Educación
 
-### **TRIPLETEN (2024)**  
-**Certificación**: QA Engineer (En progreso)
+- **Certificación en QA Engineer** – **TRIPLETEN** (2024)  
+- **MBA** – **Pontificia Universidad Católica del Perú (PUCP)** (2021)  
+- **Licenciatura en Ingeniería Electrónica** – **Universidad Privada Antenor Orrego** (2009)  
 
-### **Pontificia Universidad Católica del Perú (PUCP) (2021)**  
-**Maestría**: MBA (Master of Business Administration)
-
-### **Universidad Nacional Mayor de San Marcos (2012)**  
-**Certificado**: Ingeniería Electrónica Aplicada a Equipos Médicos
-
-### **Universidad Privada Antenor Orrego (2009)**  
-**Título**: Ingeniero Electrónico (Top 10% de la promoción)
-
----
-
-## Contacto
-
-- **Email**: lorena.ipanaque@gmail.com  
-- **Teléfono**: +51 940091447  
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/lorenaipanaque)  
-- **GitHub**: [GitHub Profile](https://github.com/tuusuario)
 
 ---
 
