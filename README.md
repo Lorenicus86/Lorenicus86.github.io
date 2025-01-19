@@ -6,7 +6,7 @@ Generating high-quality solutions and ensuring the functionality and security of
 
 Feel free to explore my LinkedIn profile by clicking the logo below:
 
-[![LinkedIn](logo-linkedin-256.png)](https://www.linkedin.com/in/lorenacamilaipanaquebotton/)
+[(logo-linkedin-256.png)](https://www.linkedin.com/in/lorenacamilaipanaquebotton/)
 
 ## Technological Skills
 
