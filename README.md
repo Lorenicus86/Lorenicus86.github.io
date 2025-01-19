@@ -4,6 +4,10 @@ I am an **Electronics Engineer** and have just completed my studies in **QA Engi
 
 Generating high-quality solutions and ensuring the functionality and security of software is my primary motivation. My focus is on creating robust, automated, and efficient testing environments that contribute to continuous improvement and strategic decision-making within agile teams.
 
+Feel free to explore my LinkedIn profile by clicking the logo below:
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/lorenacamilaipanaquebotton/)
+
 ## Technological Skills
 
 ### Software Testing:
