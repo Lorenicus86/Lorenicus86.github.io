@@ -41,6 +41,8 @@ Feel free to explore my LinkedIn profile by clicking the logo below:
 - Attention to detail  
 - Critical thinking  
 
+[Watch my video](nueva-carpeta/WhatsApp_Video_2025-01-08_at_3.25.38_PM.mp4)
+
 ## Selected Projects
 
 ### 1. Test Automation for UrbanRoutesPage
