@@ -46,11 +46,6 @@ Here is a short video introducing my professional journey:
 <video width="320" height="240" controls>
   <source src="nueva-carpeta/WhatsApp_Video_2025-01-08_at_3.25.38_PM.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>Here is a short video introducing my professional journey:
-
-<video width="320" height="240" controls>
-  <source src="nueva-carpeta/WhatsApp_Video_2025-01-08_at_3.25.38_PM.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 ## Selected Projects
